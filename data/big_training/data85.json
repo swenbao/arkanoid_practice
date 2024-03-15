@@ -1,0 +1,7658 @@
+[
+    {
+        "ball_coordinate": [
+            93,
+            395
+        ],
+        "platform_X": 75,
+        "direction": 0,
+        "delta_X": 83,
+        "delta_Y": 339,
+        "command": "SERVE_TO_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            93,
+            395
+        ],
+        "platform_X": 75,
+        "direction": -1,
+        "delta_X": 0,
+        "delta_Y": 0,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            86,
+            388
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            79,
+            381
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            72,
+            374
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            65,
+            367
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            58,
+            360
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            51,
+            353
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            44,
+            346
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            37,
+            339
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            30,
+            332
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            23,
+            325
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            16,
+            318
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            9,
+            311
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            2,
+            304
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            297
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -2,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            7,
+            290
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            14,
+            283
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            21,
+            276
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            28,
+            269
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            35,
+            262
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            42,
+            255
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            49,
+            248
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            56,
+            241
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            63,
+            234
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            227
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            77,
+            220
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            84,
+            213
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            91,
+            206
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            98,
+            199
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            192
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            112,
+            185
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            119,
+            178
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            126,
+            171
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            133,
+            164
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            157
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            147,
+            150
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            154,
+            143
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            161,
+            136
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            168,
+            129
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            122
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            182,
+            115
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            189,
+            108
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            101
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 6,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            188,
+            94
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            181,
+            87
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            80
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -6,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            182,
+            73
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            189,
+            66
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            59
+        ],
+        "platform_X": 75,
+        "direction": 1,
+        "delta_X": 6,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            188,
+            52
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            181,
+            45
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            174,
+            38
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            167,
+            31
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            24
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            153,
+            17
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            146,
+            10
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            139,
+            3
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            132,
+            0
+        ],
+        "platform_X": 75,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -3,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            7
+        ],
+        "platform_X": 75,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            118,
+            14
+        ],
+        "platform_X": 80,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            111,
+            21
+        ],
+        "platform_X": 85,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            104,
+            28
+        ],
+        "platform_X": 90,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            97,
+            35
+        ],
+        "platform_X": 95,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            42
+        ],
+        "platform_X": 100,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            83,
+            45
+        ],
+        "platform_X": 105,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 3,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            76,
+            38
+        ],
+        "platform_X": 100,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            69,
+            31
+        ],
+        "platform_X": 100,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            62,
+            24
+        ],
+        "platform_X": 100,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            55,
+            17
+        ],
+        "platform_X": 100,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            48,
+            10
+        ],
+        "platform_X": 100,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            41,
+            3
+        ],
+        "platform_X": 100,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            34,
+            0
+        ],
+        "platform_X": 100,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -3,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            27,
+            7
+        ],
+        "platform_X": 100,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            14
+        ],
+        "platform_X": 95,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            13,
+            21
+        ],
+        "platform_X": 90,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            6,
+            28
+        ],
+        "platform_X": 85,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            35
+        ],
+        "platform_X": 80,
+        "direction": 2,
+        "delta_X": -6,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            7,
+            42
+        ],
+        "platform_X": 75,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            14,
+            49
+        ],
+        "platform_X": 70,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            56
+        ],
+        "platform_X": 65,
+        "direction": 0,
+        "delta_X": 6,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            13,
+            63
+        ],
+        "platform_X": 65,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            6,
+            70
+        ],
+        "platform_X": 60,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            77
+        ],
+        "platform_X": 60,
+        "direction": 2,
+        "delta_X": -6,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            7,
+            84
+        ],
+        "platform_X": 65,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            14,
+            91
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            21,
+            98
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            28,
+            105
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            35,
+            112
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            42,
+            119
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            49,
+            126
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            56,
+            133
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            63,
+            140
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            147
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            77,
+            154
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            84,
+            161
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            91,
+            168
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            98,
+            175
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            182
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            112,
+            189
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            119,
+            196
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            126,
+            203
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            133,
+            210
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            217
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            147,
+            224
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            154,
+            231
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            161,
+            238
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            168,
+            245
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            252
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            182,
+            259
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            189,
+            266
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            273
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 6,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            188,
+            280
+        ],
+        "platform_X": 60,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            181,
+            287
+        ],
+        "platform_X": 55,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            174,
+            294
+        ],
+        "platform_X": 55,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            167,
+            301
+        ],
+        "platform_X": 55,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            308
+        ],
+        "platform_X": 55,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            153,
+            315
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            146,
+            322
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            139,
+            329
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            132,
+            336
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            343
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            118,
+            350
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            111,
+            357
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            104,
+            364
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            97,
+            371
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            378
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            83,
+            385
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            76,
+            392
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            69,
+            395
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 3,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            59,
+            388
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            49,
+            381
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            39,
+            374
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            29,
+            367
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            19,
+            360
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            9,
+            353
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            346
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -9,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            10,
+            339
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            332
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            30,
+            325
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            40,
+            318
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            50,
+            311
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            60,
+            304
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            297
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            80,
+            290
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            283
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            100,
+            276
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            110,
+            269
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            120,
+            262
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            130,
+            255
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            248
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            150,
+            241
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            234
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            170,
+            227
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            180,
+            220
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            190,
+            213
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            206
+        ],
+        "platform_X": 40,
+        "direction": 1,
+        "delta_X": 5,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            185,
+            199
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            192
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            165,
+            185
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            155,
+            178
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            145,
+            171
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            135,
+            164
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            157
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            115,
+            150
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            143
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            95,
+            136
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            85,
+            129
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            75,
+            122
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            65,
+            115
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            55,
+            108
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            45,
+            101
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            35,
+            94
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            25,
+            90
+        ],
+        "platform_X": 40,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -4,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            15,
+            97
+        ],
+        "platform_X": 40,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            5,
+            104
+        ],
+        "platform_X": 35,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            111
+        ],
+        "platform_X": 30,
+        "direction": 2,
+        "delta_X": -5,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            10,
+            118
+        ],
+        "platform_X": 35,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            125
+        ],
+        "platform_X": 30,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            30,
+            132
+        ],
+        "platform_X": 25,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            40,
+            139
+        ],
+        "platform_X": 20,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            50,
+            146
+        ],
+        "platform_X": 15,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            60,
+            153
+        ],
+        "platform_X": 10,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            160
+        ],
+        "platform_X": 5,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            80,
+            167
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            174
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            100,
+            181
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            110,
+            188
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            120,
+            195
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            130,
+            202
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            209
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            150,
+            216
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            223
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            170,
+            230
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            180,
+            237
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            190,
+            244
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            251
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 5,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            185,
+            258
+        ],
+        "platform_X": 5,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            265
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            165,
+            272
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            155,
+            279
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            145,
+            286
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            135,
+            293
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            300
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            115,
+            307
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            314
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            95,
+            321
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            85,
+            328
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            75,
+            335
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            65,
+            342
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            55,
+            349
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            45,
+            356
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            35,
+            363
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            25,
+            370
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            15,
+            377
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            5,
+            384
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            391
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -5,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            10,
+            395
+        ],
+        "platform_X": 0,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 4,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            17,
+            388
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            24,
+            381
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            31,
+            374
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            38,
+            367
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            45,
+            360
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            52,
+            353
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            59,
+            346
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            66,
+            339
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            73,
+            332
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            80,
+            325
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            87,
+            318
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            94,
+            311
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            101,
+            304
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            108,
+            297
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            115,
+            290
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            122,
+            283
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            129,
+            276
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            136,
+            269
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            143,
+            262
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            150,
+            255
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            157,
+            248
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            164,
+            241
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            171,
+            234
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            178,
+            227
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            185,
+            220
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            192,
+            213
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            206
+        ],
+        "platform_X": 0,
+        "direction": 1,
+        "delta_X": 3,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            188,
+            199
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            181,
+            192
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            174,
+            185
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            167,
+            178
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            171
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            153,
+            164
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            146,
+            157
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            139,
+            150
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            132,
+            143
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            136
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            118,
+            129
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            111,
+            122
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            104,
+            115
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            97,
+            108
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            101
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            83,
+            94
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            76,
+            90
+        ],
+        "platform_X": 0,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -4,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            69,
+            97
+        ],
+        "platform_X": 0,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            62,
+            104
+        ],
+        "platform_X": 5,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            55,
+            111
+        ],
+        "platform_X": 10,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            48,
+            118
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            41,
+            125
+        ],
+        "platform_X": 20,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            34,
+            132
+        ],
+        "platform_X": 25,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            27,
+            139
+        ],
+        "platform_X": 30,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            146
+        ],
+        "platform_X": 35,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            13,
+            153
+        ],
+        "platform_X": 40,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            6,
+            160
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            167
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -6,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            7,
+            174
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            14,
+            181
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            21,
+            188
+        ],
+        "platform_X": 65,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            28,
+            195
+        ],
+        "platform_X": 70,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            35,
+            202
+        ],
+        "platform_X": 75,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            42,
+            209
+        ],
+        "platform_X": 80,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            49,
+            216
+        ],
+        "platform_X": 85,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            56,
+            223
+        ],
+        "platform_X": 90,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            63,
+            230
+        ],
+        "platform_X": 95,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            237
+        ],
+        "platform_X": 100,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            77,
+            244
+        ],
+        "platform_X": 105,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            84,
+            251
+        ],
+        "platform_X": 110,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            91,
+            258
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            98,
+            265
+        ],
+        "platform_X": 120,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            272
+        ],
+        "platform_X": 125,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            112,
+            279
+        ],
+        "platform_X": 130,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            119,
+            286
+        ],
+        "platform_X": 135,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            126,
+            293
+        ],
+        "platform_X": 135,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            133,
+            300
+        ],
+        "platform_X": 140,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            307
+        ],
+        "platform_X": 140,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            147,
+            314
+        ],
+        "platform_X": 145,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            154,
+            321
+        ],
+        "platform_X": 145,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            161,
+            328
+        ],
+        "platform_X": 145,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            168,
+            335
+        ],
+        "platform_X": 150,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            342
+        ],
+        "platform_X": 145,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            182,
+            349
+        ],
+        "platform_X": 145,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            189,
+            356
+        ],
+        "platform_X": 145,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            363
+        ],
+        "platform_X": 145,
+        "direction": 0,
+        "delta_X": 6,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            188,
+            370
+        ],
+        "platform_X": 150,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            181,
+            377
+        ],
+        "platform_X": 145,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            174,
+            384
+        ],
+        "platform_X": 145,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            167,
+            391
+        ],
+        "platform_X": 145,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            395
+        ],
+        "platform_X": 145,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 4,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            153,
+            388
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            146,
+            381
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            139,
+            374
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            132,
+            367
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            360
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            118,
+            353
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            111,
+            346
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            104,
+            339
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            97,
+            332
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            325
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            83,
+            318
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            76,
+            311
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            69,
+            304
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            62,
+            297
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            55,
+            290
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            48,
+            283
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            41,
+            276
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            34,
+            269
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            27,
+            262
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            255
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            13,
+            248
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            6,
+            241
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            234
+        ],
+        "platform_X": 140,
+        "direction": 3,
+        "delta_X": -6,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            7,
+            227
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            14,
+            220
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            21,
+            213
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            28,
+            206
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            35,
+            199
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            42,
+            192
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            49,
+            185
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            56,
+            178
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            63,
+            171
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            164
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            77,
+            157
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            84,
+            150
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            91,
+            143
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            98,
+            136
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            129
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            112,
+            122
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            119,
+            115
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            126,
+            108
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            133,
+            101
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            94
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            147,
+            90
+        ],
+        "platform_X": 140,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -4,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            154,
+            97
+        ],
+        "platform_X": 140,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            161,
+            104
+        ],
+        "platform_X": 135,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            168,
+            111
+        ],
+        "platform_X": 130,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            118
+        ],
+        "platform_X": 125,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            182,
+            125
+        ],
+        "platform_X": 120,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            189,
+            132
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            139
+        ],
+        "platform_X": 110,
+        "direction": 0,
+        "delta_X": 6,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            188,
+            146
+        ],
+        "platform_X": 105,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            181,
+            153
+        ],
+        "platform_X": 100,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            174,
+            160
+        ],
+        "platform_X": 95,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            167,
+            167
+        ],
+        "platform_X": 90,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            174
+        ],
+        "platform_X": 85,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            153,
+            181
+        ],
+        "platform_X": 80,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            146,
+            188
+        ],
+        "platform_X": 75,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            139,
+            195
+        ],
+        "platform_X": 70,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            132,
+            202
+        ],
+        "platform_X": 65,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            209
+        ],
+        "platform_X": 60,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            118,
+            216
+        ],
+        "platform_X": 55,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            111,
+            223
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            104,
+            230
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            97,
+            237
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            244
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            83,
+            251
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            76,
+            258
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            69,
+            265
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            62,
+            272
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            55,
+            279
+        ],
+        "platform_X": 50,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            48,
+            286
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            41,
+            293
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            34,
+            300
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            27,
+            307
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            314
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            13,
+            321
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            6,
+            328
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            335
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -6,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            7,
+            342
+        ],
+        "platform_X": 40,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            14,
+            349
+        ],
+        "platform_X": 40,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            21,
+            356
+        ],
+        "platform_X": 40,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            28,
+            363
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            35,
+            370
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            42,
+            377
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            49,
+            384
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            56,
+            391
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            63,
+            395
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 4,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            388
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            77,
+            381
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            84,
+            374
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            91,
+            367
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            98,
+            360
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            353
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            112,
+            346
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            119,
+            339
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            126,
+            332
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            133,
+            325
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            318
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            147,
+            311
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            154,
+            304
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            161,
+            297
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            168,
+            290
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            283
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            182,
+            276
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            189,
+            269
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            262
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 6,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            188,
+            255
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            181,
+            248
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            174,
+            241
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            167,
+            234
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            227
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            153,
+            220
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            146,
+            213
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            139,
+            206
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            132,
+            199
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            192
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            118,
+            185
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            111,
+            178
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            104,
+            171
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            97,
+            164
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            157
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            83,
+            150
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            76,
+            143
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            69,
+            136
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            62,
+            129
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            55,
+            122
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            48,
+            115
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            41,
+            108
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            34,
+            101
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            27,
+            94
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            87
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            13,
+            80
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            6,
+            73
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            66
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -6,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            7,
+            59
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            14,
+            52
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            21,
+            45
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            28,
+            38
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            35,
+            31
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            42,
+            24
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            49,
+            17
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            56,
+            10
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            63,
+            3
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            0
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -3,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            77,
+            7
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            84,
+            14
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            91,
+            21
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            98,
+            28
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            35
+        ],
+        "platform_X": 50,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            112,
+            42
+        ],
+        "platform_X": 50,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            119,
+            45
+        ],
+        "platform_X": 50,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 3,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            126,
+            38
+        ],
+        "platform_X": 55,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            133,
+            31
+        ],
+        "platform_X": 55,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            24
+        ],
+        "platform_X": 55,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            147,
+            17
+        ],
+        "platform_X": 55,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            154,
+            10
+        ],
+        "platform_X": 55,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            161,
+            3
+        ],
+        "platform_X": 55,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            168,
+            0
+        ],
+        "platform_X": 55,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -3,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            7
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            182,
+            14
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            189,
+            21
+        ],
+        "platform_X": 65,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            28
+        ],
+        "platform_X": 70,
+        "direction": 0,
+        "delta_X": 6,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            188,
+            35
+        ],
+        "platform_X": 75,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            181,
+            42
+        ],
+        "platform_X": 80,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            49
+        ],
+        "platform_X": 85,
+        "direction": 2,
+        "delta_X": -6,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            182,
+            56
+        ],
+        "platform_X": 90,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            189,
+            63
+        ],
+        "platform_X": 95,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            70
+        ],
+        "platform_X": 100,
+        "direction": 0,
+        "delta_X": 6,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            188,
+            77
+        ],
+        "platform_X": 95,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            181,
+            84
+        ],
+        "platform_X": 100,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            174,
+            91
+        ],
+        "platform_X": 105,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            167,
+            98
+        ],
+        "platform_X": 110,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            105
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            153,
+            112
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            146,
+            119
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            139,
+            126
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            132,
+            133
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            140
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            118,
+            147
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            111,
+            154
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            104,
+            161
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            97,
+            168
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            175
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            83,
+            182
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            76,
+            189
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            69,
+            196
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            62,
+            203
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            55,
+            210
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            48,
+            217
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            41,
+            224
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            34,
+            231
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            27,
+            238
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            245
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            13,
+            252
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            6,
+            259
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            266
+        ],
+        "platform_X": 115,
+        "direction": 2,
+        "delta_X": -6,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            7,
+            273
+        ],
+        "platform_X": 110,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            14,
+            280
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            21,
+            287
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            28,
+            294
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            35,
+            301
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            42,
+            308
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            49,
+            315
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            56,
+            322
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            63,
+            329
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            336
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            77,
+            343
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            84,
+            350
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            91,
+            357
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            98,
+            364
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            371
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            112,
+            378
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            119,
+            385
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            126,
+            392
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            133,
+            395
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 3,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            388
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            147,
+            381
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            154,
+            374
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            161,
+            367
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            168,
+            360
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            353
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            182,
+            346
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            189,
+            339
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            332
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 6,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            188,
+            325
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            181,
+            318
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            174,
+            311
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            167,
+            304
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            297
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            153,
+            290
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            146,
+            283
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            139,
+            276
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            132,
+            269
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            262
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            118,
+            255
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            111,
+            248
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            104,
+            241
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            97,
+            234
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            227
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            83,
+            220
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            76,
+            213
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            69,
+            206
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            62,
+            199
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            55,
+            192
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            48,
+            185
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            41,
+            178
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            34,
+            171
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            27,
+            164
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            157
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            13,
+            150
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            6,
+            143
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            136
+        ],
+        "platform_X": 115,
+        "direction": 3,
+        "delta_X": -6,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            7,
+            129
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            14,
+            122
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            21,
+            115
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            28,
+            108
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            35,
+            101
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            42,
+            94
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            49,
+            90
+        ],
+        "platform_X": 115,
+        "direction": 1,
+        "delta_X": 7,
+        "delta_Y": -4,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            56,
+            97
+        ],
+        "platform_X": 115,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            63,
+            104
+        ],
+        "platform_X": 110,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            111
+        ],
+        "platform_X": 105,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            77,
+            118
+        ],
+        "platform_X": 100,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            84,
+            125
+        ],
+        "platform_X": 95,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            91,
+            132
+        ],
+        "platform_X": 90,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            98,
+            139
+        ],
+        "platform_X": 85,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            146
+        ],
+        "platform_X": 80,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            112,
+            153
+        ],
+        "platform_X": 75,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            119,
+            160
+        ],
+        "platform_X": 70,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            126,
+            167
+        ],
+        "platform_X": 65,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            133,
+            174
+        ],
+        "platform_X": 60,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            181
+        ],
+        "platform_X": 55,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            147,
+            188
+        ],
+        "platform_X": 50,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            154,
+            195
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            161,
+            202
+        ],
+        "platform_X": 40,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            168,
+            209
+        ],
+        "platform_X": 35,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            216
+        ],
+        "platform_X": 35,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            182,
+            223
+        ],
+        "platform_X": 30,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            189,
+            230
+        ],
+        "platform_X": 30,
+        "direction": 0,
+        "delta_X": 7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            237
+        ],
+        "platform_X": 25,
+        "direction": 0,
+        "delta_X": 6,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            188,
+            244
+        ],
+        "platform_X": 30,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            181,
+            251
+        ],
+        "platform_X": 25,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            174,
+            258
+        ],
+        "platform_X": 20,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            167,
+            265
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            272
+        ],
+        "platform_X": 10,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            153,
+            279
+        ],
+        "platform_X": 10,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            146,
+            286
+        ],
+        "platform_X": 10,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            139,
+            293
+        ],
+        "platform_X": 10,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            132,
+            300
+        ],
+        "platform_X": 10,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            307
+        ],
+        "platform_X": 10,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            118,
+            314
+        ],
+        "platform_X": 10,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            111,
+            321
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            104,
+            328
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            97,
+            335
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            342
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            83,
+            349
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            76,
+            356
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            69,
+            363
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            62,
+            370
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            55,
+            377
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            48,
+            384
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            41,
+            391
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            34,
+            395
+        ],
+        "platform_X": 10,
+        "direction": 2,
+        "delta_X": -7,
+        "delta_Y": 4,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            24,
+            388
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            14,
+            381
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            4,
+            374
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            367
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -4,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            10,
+            360
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            353
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            30,
+            346
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            40,
+            339
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            50,
+            332
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            60,
+            325
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            318
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            80,
+            311
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            304
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            100,
+            297
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            110,
+            290
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            120,
+            283
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            130,
+            276
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            269
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            150,
+            262
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            255
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            170,
+            248
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            180,
+            241
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            190,
+            234
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            227
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 5,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            185,
+            220
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            213
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            165,
+            206
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            155,
+            199
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            145,
+            192
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            135,
+            185
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            178
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            115,
+            171
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            164
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            95,
+            157
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            85,
+            150
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            75,
+            143
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            65,
+            136
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            55,
+            129
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            45,
+            122
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            35,
+            115
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            25,
+            108
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            15,
+            101
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            5,
+            94
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            87
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -5,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            10,
+            80
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            73
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            10,
+            66
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            0,
+            59
+        ],
+        "platform_X": 10,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            10,
+            52
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            20,
+            45
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            30,
+            38
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            40,
+            31
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            50,
+            24
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            60,
+            17
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            70,
+            10
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            80,
+            3
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            90,
+            0
+        ],
+        "platform_X": 10,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -3,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            100,
+            7
+        ],
+        "platform_X": 10,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            110,
+            14
+        ],
+        "platform_X": 15,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            120,
+            21
+        ],
+        "platform_X": 20,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            130,
+            28
+        ],
+        "platform_X": 25,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            140,
+            35
+        ],
+        "platform_X": 30,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            150,
+            42
+        ],
+        "platform_X": 35,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            160,
+            49
+        ],
+        "platform_X": 40,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            170,
+            55
+        ],
+        "platform_X": 45,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 6,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            180,
+            48
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            190,
+            41
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            195,
+            34
+        ],
+        "platform_X": 45,
+        "direction": 1,
+        "delta_X": 5,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            185,
+            27
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            175,
+            20
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            165,
+            13
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            155,
+            6
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            145,
+            0
+        ],
+        "platform_X": 45,
+        "direction": 3,
+        "delta_X": -10,
+        "delta_Y": -6,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            135,
+            7
+        ],
+        "platform_X": 45,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            14
+        ],
+        "platform_X": 40,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            115,
+            21
+        ],
+        "platform_X": 35,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            28
+        ],
+        "platform_X": 30,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            95,
+            35
+        ],
+        "platform_X": 25,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            85,
+            42
+        ],
+        "platform_X": 20,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "MOVE_LEFT"
+    },
+    {
+        "ball_coordinate": [
+            75,
+            49
+        ],
+        "platform_X": 15,
+        "direction": 2,
+        "delta_X": -10,
+        "delta_Y": 7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            85,
+            56
+        ],
+        "platform_X": 15,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            95,
+            63
+        ],
+        "platform_X": 20,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            105,
+            70
+        ],
+        "platform_X": 25,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 7,
+        "command": "MOVE_RIGHT"
+    },
+    {
+        "ball_coordinate": [
+            115,
+            75
+        ],
+        "platform_X": 30,
+        "direction": 0,
+        "delta_X": 10,
+        "delta_Y": 5,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            125,
+            68
+        ],
+        "platform_X": 30,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    },
+    {
+        "ball_coordinate": [
+            135,
+            61
+        ],
+        "platform_X": 30,
+        "direction": 1,
+        "delta_X": 10,
+        "delta_Y": -7,
+        "command": "NONE"
+    }
+]

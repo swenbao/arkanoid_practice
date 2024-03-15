@@ -1,0 +1,4 @@
+/Users/swenbaola/Library/Mobile[[:space:]]Documents/com~apple~CloudDocs/存東西/大三/MLGame/arkanoid_practice/models/new_big6nn_model.joblib filter=lfs diff=lfs merge=lfs -text
+/Users/swenbaola/Library/Mobile[[:space:]]Documents/com~apple~CloudDocs/存東西/大三/MLGame/arkanoid_practice/models/new_big8nn_model.joblib filter=lfs diff=lfs merge=lfs -text
+models/new_big6nn_model.joblib filter=lfs diff=lfs merge=lfs -text
+models/new_big8nn_model.joblib filter=lfs diff=lfs merge=lfs -text

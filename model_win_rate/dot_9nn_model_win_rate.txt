@@ -1,0 +1,103 @@
+1.won
+2.won
+3.won
+4.won
+5.won
+6.won
+7.won
+8.won
+9.won
+10.won
+11.won
+Level: 1
+Total: 11 rounds
+Win: 11 rounds
+Win Rate: 100.00%%
+----------------------
+
+
+1.won
+2.won
+3.won
+4.won
+5.won
+6.won
+7.won
+8.won
+9.won
+10.won
+Level: 2
+Total: 10 rounds
+Win: 10 rounds
+Win Rate: 100.00%%
+----------------------
+
+
+1.won
+2.won
+3.won
+4.won
+5.won
+6.won
+7.won
+8.won
+9.won
+10.won
+Level: 3
+Total: 10 rounds
+Win: 10 rounds
+Win Rate: 100.00%%
+----------------------
+
+
+1.won
+2.won
+3.won
+4.won
+5.won
+6.won
+7.won
+8.won
+9.won
+10.won
+Level: 4
+Total: 10 rounds
+Win: 10 rounds
+Win Rate: 100.00%%
+----------------------
+
+
+1.won
+2.won
+3.won
+4.won
+5.won
+6.won
+7.won
+8.won
+9.won
+10.won
+Level: 5
+Total: 10 rounds
+Win: 10 rounds
+Win Rate: 100.00%%
+----------------------
+
+
+1.won
+2.won
+3.won
+4.won
+5.won
+6.won
+7.won
+8.won
+9.won
+10.won
+Level: 6
+Total: 10 rounds
+Win: 10 rounds
+Win Rate: 100.00%%
+----------------------
+
+

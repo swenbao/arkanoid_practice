@@ -1,0 +1,12 @@
+1.won
+2.won
+3.lost
+4.lost
+5.lost
+6.won
+7.lost
+8.lost
+9.lost
+10.won
+11.lost
+12.won
